@@ -1,0 +1,15 @@
+Introduction
+
+An alert is a core concept for any SOC team, and knowing how to handle it properly ultimately decides whether a security breach is detected and prevented, or missed and devastating. This is an entry level but essential room for SOC L1 analysts to understand the concept and lifecycle of alerts, from event generation to correct resolution.
+Learning Objectives
+Familiarise with the concept of SOC alert
+Explore alert fields, statuses, and classification
+Learn how to perform alert triage as an L1 analyst
+Practice with real alerts and SOC workflows
+Prepare for SOC Simulator and SAL1 certification
+
+Conclusion
+
+ongratulations on successfully triaging the alerts! Of course, closing the alert as True Positive won't prevent the attack, but it is a great start. Next, you will learn about proper alert commenting and case reporting, correct escalation procedures, and actions made by L2 analysts after the escalation. We hope you enjoyed the room!
+
+
