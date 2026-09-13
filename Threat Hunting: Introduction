@@ -1,0 +1,14 @@
+Introduction
+
+Threat hunting is the systematic, proactive search for malicious activity in your environment that may have evaded detection systems. Unlike incident response, which reacts to confirmed alerts, threat hunters actively seek threats before they cause damage. This skill has become essential in modern cyber security as attackers grow more sophisticated and detection gaps remain inevitable.
+
+In this room, you will learn the foundational concepts that threat hunters use to find threats. You will understand what threat hunting is, what threat hunters search for, the different approaches they use, and the techniques they employ. After completing this room, you will be ready for the practical threat hunting scenarios that follow throughout the module.
+
+Scenario
+You are a threat hunter at a financial services organization. Your security team has received threat intelligence about APT-Serpent, a sophisticated threat group targeting companies in your sector. No alerts have fired in your environment, but your team wants to conduct a proactive hunt to determine if this threat actor has already gained a foothold.
+
+Conclusion
+
+Throughout this room, we have covered the foundational concepts of threat hunting, understanding what it is and why it matters. Multiple approaches exist, hypothesis-driven, intelligence-driven, and indicator-driven, with hunters selecting based on their circumstances and available information. The targets of hunting span known malware, attack residues, and evidence of vulnerability exploitation. Methods for uncovering this evidence include attack signatures, indicators of compromise, behavioral pattern analysis, and logical queries. These building blocks will guide your progression into practical threat hunting scenarios.
+
+Remember that threat hunting is fundamentally proactive. You are not waiting for alerts. You are actively seeking threats that detection systems have missed, particularly during the early stages of attacks before attackers achieve their objectives. This requires the right mindset: suspicious thinking, methodical analysis, and continuous learning. Every hunt serves a dual purpose: you find active threats in your environment, and you identify detection gaps that your security team can then strengthen. Each hunt teaches you something new about your environment and your attackers, creating a cycle where your findings improve future detection capabilities. As you progress through the practical rooms ahead, you will develop the judgment and experience that separates competent threat hunters from exceptional ones.
