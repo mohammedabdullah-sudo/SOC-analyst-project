@@ -1,0 +1,20 @@
+Introduction to SIEM
+
+
+Security Information and Event Management system (SIEM) is the core security solution that a SOC analyst uses in the security operations center. In this room, we will learn how different devices in a network generate logs and why it's essential to have a centralized solution to collect, normalize, and correlate these logs.  
+Learning Objectives
+Understand the different types of log sources
+Identify the limitations of working with isolated logs
+Recognize the importance of a SIEM solution
+Explore the features of a SIEM solution
+Learn various types of log sources and their ingestion in the SIEM
+Understand the process behind alerting and alert analysis
+Why SIEM
+
+In the previous task, we saw how different log sources generate numerous logs of various types and the challenges associated with analyzing those logs. So, how can we more efficiently manage this flood of data and extract valuable results?
+This is where SIEM comes into play. Security Information and Event Management (SIEM) is a security solution that collects logs from various types of log sources, standardizes their format into a consistent one, correlates them, and detects malicious activities using detection rules.
+ 
+
+Conclusion
+
+In this room, we have covered what SIEM is, its capabilities, and what visibility it provides.
