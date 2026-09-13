@@ -1,0 +1,13 @@
+Windows Logging for SOC
+
+SOC analysts spend most of their time triaging alerts and hunting threats - using the logs in SIEM. To tell good from bad, analysts have to know the logs well: how they look, how to interpret them, and what malicious action they indicate. This room begins your long journey into Windows logging - a key skill for any SOC analyst or DFIR professional.
+
+
+SOC L2 Alert Triage
+
+Difference in L2 Duties
+As a reminder, L2 will have different duties depending on the organization. For example, big enterprises and MSSPs can have an L3 position and dedicated DFIR and CTI squads that will take some of the work off your plate. On the other hand, in smaller companies, you might be a jack-of-all-trades, handling all investigative aspects, which is really fun but adds more responsibility. Keep this in mind when looking for a new job.
+
+Conclusion
+
+SOC L2 alert triage goes far beyond log analysis. Communicating impact, responding to threats, tuning broken rules, and reflecting on outcomes are all core parts of the L2 workflow. The key takeaway: learn from your mistakes and take initiative to make your team better. In the next room, Report Writing for SOC L2, you'll focus on report writing, a critical soft skill for MSSPs and any senior role. Hope you enjoyed the room!
