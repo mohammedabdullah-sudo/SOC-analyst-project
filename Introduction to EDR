@@ -1,0 +1,8 @@
+Introduction
+
+Endpoint Detection and Response (EDR) is a security solution designed to monitor, detect, and respond to advanced threats at the endpoint level. As a SOC analyst, it is essential for you to understand how the EDR works since it is a widely adopted solution in organizations to protect their endpoints. In this room, we will see how an EDR differs from a traditional antivirus and what data it collects from the endpoints. We will also discuss the detection and response capabilities it provides.
+
+Conclusion
+
+Congratulations! We have learned one of the essential tools used in the Security Operations Center (SOC), Endpoint Detection and Response (EDR). As a SOC analyst, we now understand the basic architecture of EDR and its capabilities beyond Antivirus. We explored the detailed telemetry that an EDR provides. We also saw the powerful detection and response capabilities of EDR solutions. Lastly, we practiced investigating some detections on a simulated EDR.
+This sets a strong baseline for working with essential security solutions. In the upcoming rooms of this module, we will explore some other security solutions that a SOC analyst works on in a Security Operations Center (SOC).
